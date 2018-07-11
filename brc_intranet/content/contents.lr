@@ -1,0 +1,50 @@
+_model: brcpage
+---
+title: Leicester Biomedical Research Centre IT Systems
+---
+body: This is the place to find links to BRC systems, study dashboards and useful information.
+---
+_discoverable: yes
+---
+links:
+
+#### link ####
+label: NIHR Hub
+----
+link: https://hub.nihr.ac.uk/
+#### link ####
+label: EDGE
+----
+link: https://www.edge.nhs.uk
+#### link ####
+label: CRF Manager
+----
+link: https://clients.crfmanager.com/LeicesterCRF/login.aspx
+#### link ####
+label: CiviCRM
+----
+link: http://lcbru.xuhl-tr.nhs.uk/
+#### link ####
+label: REDCap UHL
+----
+link: https://briccs.xuhl-tr.nhs.uk/redcap/
+#### link ####
+label: REDCap N3
+----
+link: https://uhlbriccsext01.xuhl-tr.nhs.uk/redcap/
+#### link ####
+label: REDCap UoL
+----
+link: https://crf.lcbru.le.ac.uk/
+#### link ####
+label: REDCap Internet
+----
+link: https://redcap.lcbru.le.ac.uk/
+#### link ####
+label: MRBS
+----
+link: http://briccs.xuhl-tr.nhs.uk/appointments/
+#### link ####
+label: BRICCS Label Printing
+----
+link: http://briccs.xuhl-tr.nhs.uk:8080/briccs-labels-webapp-1.05/

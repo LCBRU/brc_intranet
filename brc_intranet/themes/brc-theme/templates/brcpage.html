@@ -1,0 +1,19 @@
+{% extends "brclayout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+    <section>
+      <h2>{{ this.title }}</h2>
+      {{ this.body }}
+    </section>
+
+    <div class="card">
+      <div class="card-header">BRC Systems</div>
+      <div class="card-body">
+          {% for item in this.links.blocks %}
+            {{ item }}
+          {% endfor %}
+      </div>
+    </div>
+
+
+{% endblock %}
